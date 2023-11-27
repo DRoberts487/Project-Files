@@ -1,0 +1,3 @@
+You chose to fight Gryla here are the rules: 
+
+You will roll a d20. If you roll a 12 or higher it is a hit. if you roll a 1, you need to hit that 3 times, After you attack Gryla attacks but need to get a 12 or higher to do so and gryla's rolls are modified with -4, if you are hit twice, GAME OVER!!!
